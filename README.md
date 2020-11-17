@@ -1,3 +1,3 @@
 # Movies-Database-app
 
-Movies Database - MongoDB,Node.js,express.js,MySql, Heroku .
+Movies Database - Node.js,express.js,MySql, Heroku .
