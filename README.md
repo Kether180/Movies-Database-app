@@ -1,3 +1,3 @@
 # Workers Database
 
- Node.js,express.js,MySql, Heroku .
+ Node.js,express.js,MySql
